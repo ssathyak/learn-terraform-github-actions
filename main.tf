@@ -12,7 +12,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "Sathya-Terraform-Demo"
+    organization = "Sathya-Terraform-Demo2"
 
     workspaces {
       name = "demo-github-workspace"
